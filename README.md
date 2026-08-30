@@ -610,6 +610,6 @@ The result is a technical persona capable of turning business needs into digital
 
 - WhatsApp: [+52 934 126 6283](https://wa.me/529341266283)
 - Location: Emiliano Zapata, Tabasco, México
-- GitHub: [github.com/manuelasus](https://github.com/manuelasus)
+- GitHub: [github.com/JoseManuelLainesHernandez](https://github.com/JoseManuelLainesHernandez)
 
 > Engineering focused on digital transformation, business automation, and product delivery with measurable impact.
