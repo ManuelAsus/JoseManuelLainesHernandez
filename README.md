@@ -11,18 +11,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;ERP+%26+E-commerce+Solutions;PWA%2C+SPA%2C+Cloud+and+Offline+Systems;Business+Digital+Transformation" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <a href="#resumen-ejecutivo">🇲🇽 Español</a> ·
+  <a href="#english-version">🇺🇸 English</a>
+</div>
+
 ---
 
-## Executive Summary
+## <a id="resumen-ejecutivo"></a>Resumen Ejecutivo
 
 Ingeniero en Entornos Virtuales y Negocios Digitales con especialización en desarrollo de sistemas empresariales, e-commerce, gestión operativa, plataformas web y soluciones híbridas. Mi trabajo combina arquitectura de software, diseño de interfaces, integración con servicios cloud, automatización de procesos, y entrega de soluciones funcionales orientadas a la productividad del negocio.
 
 He construido productos para restaurantes, hoteles, sistemas escolares, transportes, y plataformas empresariales, aplicando una lógica de desarrollo centrada en la escalabilidad, la experiencia de usuario y la optimización del flujo operativo.
 
 - Cédula Profesional Federal: 15331523
-- Idiomas: Español (Nativo), Inglés (C1 Avanzado)
+- Idiomas: Español (Nativo), Inglés (B1 Intermedio)
 - Formación: Ingeniería en Entornos Virtuales y Negocios Digitales + TSU en Tecnologías de la Información
 - Ubicación: Emiliano Zapata, Tabasco, México
+
+> Language selector: <a href="#resumen-ejecutivo">🇲🇽 Español</a> · <a href="#english-version">🇺🇸 English</a>
+
+---
+
+## <a id="english-version"></a>English Summary
+
+Software engineer specialized in enterprise systems, e-commerce platforms, operational management, web solutions, and hybrid applications. My work combines software architecture, user experience design, cloud integration, process automation, and reliable delivery of digital products focused on business efficiency.
+
+I have built projects for restaurants, hotels, schools, transportation services, and corporate platforms using scalable architectures, modern interfaces, and optimized business workflows.
 
 ---
 
@@ -206,12 +221,12 @@ Repository path: `MaraliComunicacionesitiodecompras-main/MaraliComunicacionesiti
 #### System architecture
 ```mermaid
 flowchart LR
-    A[Landing Page] --> B[Hero / Product Sections]
+    A[Landing Page] --> B[Hero and Product Sections]
     B --> C[3D Product Viewer]
     B --> D[Gallery and Video]
     B --> E[Lead Capture Form]
     E --> F[Formspree Endpoint]
-    C --> G[3D Models (.glb)]
+    C --> G[3D Models]
     D --> H[Local Assets]
 ```
 
