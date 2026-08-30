@@ -33,6 +33,44 @@ He construido productos para restaurantes, hoteles, sistemas escolares, transpor
 
 ---
 
+🔒 Source Code Policy / Política de Código Fuente
+
+Los proyectos presentados en este portafolio corresponden a soluciones desarrolladas para entornos empresariales, comerciales, educativos y de servicios. Por razones de propiedad intelectual, seguridad y protección de los sistemas implementados, el código fuente completo de estos proyectos se mantiene privado y no se distribuye públicamente.
+
+El objetivo de este repositorio es permitir que reclutadores, líderes técnicos y organizaciones puedan evaluar de manera transparente el alcance y la complejidad de mi trabajo sin exponer el código fuente propietario.
+
+Para cada proyecto se proporciona, cuando corresponde:
+
+* Arquitectura general del sistema.
+* Estructura de directorios y organización del proyecto.
+* Tecnologías y servicios utilizados.
+* Variables, componentes y módulos principales.
+* Descripción de funciones y responsabilidades.
+* Flujos de autenticación, almacenamiento y procesamiento.
+* Integraciones con APIs y servicios externos.
+* Arquitectura de datos y persistencia.
+* Lógica general de funcionamiento.
+* Características funcionales del producto.
+* Enlaces a implementaciones funcionales.
+* Acceso mediante cuentas de demostración cuando están disponibles.
+
+Las credenciales identificadas como Demo Credentials / Credenciales de demostración están destinadas exclusivamente a la evaluación funcional de los sistemas publicados y no representan acceso al código fuente.
+
+Source Code: Private / Proprietary
+Technical Documentation: Public
+Architecture & Project Structure: Public
+Functional Demos: Available where indicated
+Demo Access: Available where indicated
+
+English — Source Code Policy
+
+The projects presented in this portfolio include software solutions developed for business, commercial, educational, and service environments. For intellectual property, security, and system protection reasons, the complete source code of these projects remains private and is not publicly distributed.
+
+This repository is designed to allow recruiters, technical leads, and organizations to evaluate the scope, architecture, technical decisions, and complexity of my work without exposing proprietary source code.
+
+Where applicable, each project provides technical architecture, directory structure, technology stack, major modules, key functions, system workflows, integrations, data persistence strategies, functional descriptions, live deployments, and dedicated demo access.
+
+Demo credentials are provided solely for functional evaluation of the deployed systems and do not grant access to the underlying source code.
 ## <a id="english-version"></a>English Summary
 
 Software engineer specialized in enterprise systems, e-commerce platforms, operational management, web solutions, and hybrid applications. My work combines software architecture, user experience design, cloud integration, process automation, and reliable delivery of digital products focused on business efficiency.
