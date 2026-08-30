@@ -25,7 +25,7 @@ Ingeniero en Entornos Virtuales y Negocios Digitales con especialización en des
 He construido productos para restaurantes, hoteles, sistemas escolares, transportes, y plataformas empresariales, aplicando una lógica de desarrollo centrada en la escalabilidad, la experiencia de usuario y la optimización del flujo operativo.
 
 - Cédula Profesional Federal: 15331523
-- Idiomas: Español (Nativo), Inglés (B1 Intermedio)
+- Idiomas: Español (Nativo), Inglés (C1 Avanzado)
 - Formación: Ingeniería en Entornos Virtuales y Negocios Digitales + TSU en Tecnologías de la Información
 - Ubicación: Emiliano Zapata, Tabasco, México
 
